@@ -1,0 +1,108 @@
+############################
+# OS / Editor Junk
+############################
+.DS_Store
+Thumbs.db
+desktop.ini
+
+############################
+# Logs / Temp Files
+############################
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+
+############################
+# Build Artifacts
+############################
+bin/
+obj/
+build/
+Build/
+Builds/
+dist/
+out/
+target/
+
+############################
+# IDE / Editor Files
+############################
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.cache
+*.pdb
+*.mdb
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+############################
+# Unity / Game Engine
+############################
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+UserSettings/
+ProjectSettings/UnityConnectSettings.asset
+unitylockfile
+*.unitypackage
+
+############################
+# Python (if tools/scripts exist)
+############################
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+############################
+# Compiled Libraries
+############################
+*.dll
+*.exe
+*.so
+*.dylib
+*.bundle
+
+############################
+# Archives / Packages
+############################
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+
+############################
+# Environment / Secrets
+############################
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+
+############################
+# Misc
+############################
+*.swp
+*.swo
+*.swn
+*.orig
+*.rej
+*.tmp
