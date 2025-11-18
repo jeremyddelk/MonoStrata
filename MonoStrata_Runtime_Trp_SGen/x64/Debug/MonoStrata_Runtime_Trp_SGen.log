@@ -1,0 +1,6 @@
+﻿  pch.cpp
+C:\Users\delkj\OneDrive\Desktop\DeepProfiler\MonoStrata_Runtime_Trp_SGen\Logger.h(24,2): warning C4091: 'static ': ignored on left of 'Logger' when no variable is declared
+  dllmain.cpp
+  Logger.cpp
+  Generating Code...
+C:\Users\delkj\OneDrive\Desktop\DeepProfiler\MonoStrata_Runtime_Trp_SGen\dllmain.cpp(7): error C4716: 'AttachLogger': must return a value
