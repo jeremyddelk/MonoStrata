@@ -1,0 +1,6 @@
+C:\Users\delkj\OneDrive\Desktop\DeepProfiler\AssemblyValidator\obj\Release\MonoStrataInterop.csproj.AssemblyReference.cache
+C:\Users\delkj\OneDrive\Desktop\DeepProfiler\AssemblyValidator\obj\Release\MonoStrataInterop.csproj.CoreCompileInputs.cache
+C:\Users\delkj\OneDrive\Desktop\DeepProfiler\AssemblyValidator\bin\Release\MonoStrataInterop.dll
+C:\Users\delkj\OneDrive\Desktop\DeepProfiler\AssemblyValidator\bin\Release\MonoStrataInterop.pdb
+C:\Users\delkj\OneDrive\Desktop\DeepProfiler\AssemblyValidator\obj\Release\MonoStrataInterop.dll
+C:\Users\delkj\OneDrive\Desktop\DeepProfiler\AssemblyValidator\obj\Release\MonoStrataInterop.pdb
